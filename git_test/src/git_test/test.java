@@ -9,5 +9,10 @@ public class test {
 				System.out.println(i);
 			}
 		}
+		
+		HashMap<Integer, Integer> map=new HashMap<>():
+		
+		map.put(0, 0);
+		map.put(1,2);
 	}
 }
